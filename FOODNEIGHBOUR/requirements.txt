@@ -1,0 +1,18 @@
+integer
+pytest
+pytest-cov
+geopy
+
+# Front-end Packages
+
+Kivy
+Kivy-deps.angle
+Kivy-deps.glew
+kivy-deps.sdl2
+kivymd
+
+# Back-end Packages
+
+mysqlclient
+sqlalchemy
+captcha
